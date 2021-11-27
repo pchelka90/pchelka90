@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pchelka90. This is my nickname. My real name is Bartek.
+- 👋 Hi, I’m Bartek.
 - 👀 I’m interested in computer technology, programming, automotive, blockchain. I'm interested in sports too, my favourite sport is football. 
 - 🌱 I’m currently learning everything, because like old say tell: "I know that I know nothing".
 - 💞️ I’m looking to collaborate on web developing.

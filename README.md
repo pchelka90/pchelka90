@@ -31,8 +31,6 @@ I began my developer journey in April of 2020, starting at the very top of the <
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=plastic&logo=javascript" height="25"/>
 <img src="https://img.shields.io/badge/-React-61DBFB?style=plastic&logo=react&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" />
 </p>
 <br />
 <br />

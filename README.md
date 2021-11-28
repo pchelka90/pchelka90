@@ -16,10 +16,12 @@ I began my developer journey in April of 2020, starting at the very top of the <
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sql-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+<img src="https://img.shields.io/badge/-JavaScript-323330?style=plastic&logo=javascript" height="25"/>
+<img src="https://img.shields.io/badge/-React-61DBFB?style=plastic&logo=react&logoColor=white" height="25"/>
 </p>
 <br />
 <br />

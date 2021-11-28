@@ -12,6 +12,17 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 I began my developer journey in April of 2020, starting at the very top of the <a href="https://freecodecamp.org" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> curriculum. I picked up my knowledge of HTML, CSS, JavaScript, node.js, React, and D3. Some of those tools stuck, while others did not. After completing the Full Stack web development certification, I started exploring TypeScript and fell in love with it. I used it first for a couple of small projects, then ended up building a Discord bot with it. When freeCodeCamp rolled out the Python curriculum I started exploring Python - but I ended up tabling those studies until later on. I recently picked up Angular and began exploring it, and so far am greatly enjoying what it has to offer!
 </p>
 <hr />
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+</p>
+<br />
+<br />
 <h2 align="center">Projects</h2>
 <p align="center">
 All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome! Please review our <a href="#" target="_blank" rel="noopener noreferrer">contributing guidelines</a> and <a href="#" target="_blank" rel="noopener noreferrer">Code of Conduct</a> first — and see the project's versions for information specific to that project!

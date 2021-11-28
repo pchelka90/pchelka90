@@ -9,7 +9,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 <hr />
 <h2 align="center">About Me </h2>
 <p align="center">
-I began my developer journey in April of 2020, starting at the very top of the <a href="https://freecodecamp.org" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> curriculum. I picked up my knowledge of HTML, CSS, JavaScript, node.js, React, and D3. Some of those tools stuck, while others did not. After completing the Full Stack web development certification, I started exploring TypeScript and fell in love with it. I used it first for a couple of small projects, then ended up building a Discord bot with it. When freeCodeCamp rolled out the Python curriculum I started exploring Python - but I ended up tabling those studies until later on. I recently picked up Angular and began exploring it, and so far am greatly enjoying what it has to offer!
+I began my developer journey in April of 2020, starting at the very top of the <a href="https://freecodecamp.org" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> curriculum. I picked up my knowledge of HTML, CSS, JavaScript, node.js, React, and D3. Some of those tools stuck, while others did not. After completing the Full Stack web development certification, I started exploring TypeScript and fell in love with it. I used it first for a couple of small projects, then ended up building a Discord bot with it. When freeCodeCamp rolled out the Python curriculum I started exploring Python - but I ended up tabling those studies until later on. I recently picked up React and began exploring it, and so far am greatly enjoying what it has to offer!
 </p>
 <hr />
 <h2 align="center">Languages and Tools</h2>

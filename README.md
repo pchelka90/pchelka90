@@ -9,7 +9,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 <hr />
 <h2 align="center">About Me </h2>
 <p align="center">
-I began my developer journey starting at the very top of the <a href="https://www.freecodecamp.org/pchelka" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> curriculum. I picked up my knowledge of HTML, CSS, JavaScript and React. Some of those tools stuck, while others did not. After completing the Full Stack web development certification, I started exploring TypeScript and fell in love with it. I used it first for a couple of small projects, then ended up building a Discord bot with it. When freeCodeCamp rolled out the Python curriculum I started exploring Python - but I ended up tabling those studies until later on. I recently picked up React and began exploring it, and so far am greatly enjoying what it has to offer!
+I began my developer journey from learni9ng from my own HTML and CSS. Then, what it's normal path, I think, I started to interested more about these technology language's. So I meet with JavaScript and I and I'm love'in it! And, like is on common on these It industry and have possibly to see a sea of technologies framework's, library also more highly advantageous languages as Java or C++. So I started to learn write code in Java then. I spent one year with these guyes from zajavka.pl. Yea' it was worth it all, but you know its never ending story, because when you finish learning some programming languages and starting using these technology you knowing more about that you don't know anything at all :) See yaa on some kind of pull request!👏👱🥇©️
 </p>
 <hr />
 <h2 align="center">Languages and Tools</h2>

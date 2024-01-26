@@ -31,7 +31,7 @@ I began my developer journey from learni9ng from my own HTML and CSS. Then, what
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=plastic&logo=javascript" height="25"/>
 <img src="https://img.shields.io/badge/-React-61DBFB?style=plastic&logo=react&logoColor=white" height="25"/>
-//[Java]<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
 
 </p>
 <br />

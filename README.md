@@ -36,7 +36,7 @@ I began my developer journey from learni9ng from my own HTML and CSS. Then, what
 <br />
 <h2 align="center">Projects</h2>
 <p align="center">
-All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome! Please review our <a href="https://pan-zieleniak.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Pan Zieleniak</a> and <a href="https://lobpreis.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lobpreis Trans</a> first — and see the project's versions for information specific to that project!
+All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome! Please review our <a href="https://pan-zieleniak.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Pan Zieleniak</a> and <a href="https://lobpreis.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lobpreis Trans</a>(both they are not live for now until I wanna to changed it xD) first — and see the project's versions for information specific to that project!
 </p>
 <hr />
 <h2 align="center">Social Media</h2>

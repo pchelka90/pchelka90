@@ -9,7 +9,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 <hr />
 <h2 align="center">About Me </h2>
 <p align="center">
-I began my developer journey from learning from my own HTML and CSS. Then, what it's normal path, I think, I started to interested more about technology language's. So I meet with JavaScript and I and I'm love'in it! And, like is on common on It industry and have possibly to see a sea of technologies framework's, library also more highly advantageous languages as Java or C++. Why not py? You can ask and I can answer, python it's for kiddies heh... So I started to learn write code in Java then. I spent one year with these guyes from zajavka.pl. Yea' it was worth it all, but you know its never ending story, because when you finish learning some programming languages and starting using these technology you knowing more about that you don't know anything at all :) See yaa on some kind of pull request!👏👱🥇©️
+I began my developer journey from learning from my own HTML and CSS. Then, what it's normal path, I think, I started to interested more about technology language's. So I meet with JavaScript and I and I'm love'in it! And, like is on common on It industry and have possibly to see a sea of technologies framework's, library also more highly advantageous languages as Java or C++, so I started to learn write code in Java then. I spent one year with these guyes from zajavka.pl. Yea' it was worth it all, but you know its never ending story, because when you finish learning some programming languages and starting using these technology you knowing more about that you don't know anything at all :) See yaa on some kind of pull request!👏👱🥇©️
 </p>
 <hr />
 <h2 align="center">Languages and Tools</h2>

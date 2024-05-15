@@ -44,7 +44,6 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <h2 align="center">Social Media</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/bartlomiejbronkowski90/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bartek%20Bronkowski-%23006192.svg?style=for-the-badge&logo=LinkedIn&logoColor=whit" /></a>
-<a href="https://twitter.com/Pchelka90Bartek" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pchelka90Bartek-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
 <hr />
 <h2 align="center">Contact</h2>
